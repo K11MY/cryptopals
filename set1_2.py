@@ -9,3 +9,4 @@ if __name__ == "__main__":
     b2 = binascii.unhexlify(b)
 
     print(xor_equal_length(b1, b2))
+
